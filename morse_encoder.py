@@ -2,8 +2,8 @@ import pygame
 import time
 
 pygame.init()
-dot=pygame.mixer.Sound('morse_code/sounds/dot.wav')
-dash=pygame.mixer.Sound('morse_code/sounds/dash.wav')
+dot=pygame.mixer.Sound('dot.wav')
+dash=pygame.mixer.Sound('dash.wav')
 
 
 '''
