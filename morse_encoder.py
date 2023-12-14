@@ -102,7 +102,7 @@ morse_table = {
         ' ': ' '
 	}
 
-text=input('Metni girin...:')
+text=input('Input text to be encoded...:')
 
 for char in text:
     for signal in morse_table[char]:
